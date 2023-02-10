@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋✨
+I´m a student from TECNM, I studing ISC 
+and i´m a person who like so much learn 
+and innovate 😄⚡
 
+#code-eat-sleep-repeat 🌱
 <!--
 **Angelajauregui/Angelajauregui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
