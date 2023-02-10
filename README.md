@@ -1,20 +1,18 @@
-### Hi there 👋✨
-I´m a student from TECNM, I studing ISC 
+### Hi there 👋✨:tada:
+I´m a student from TECNM TIJUANA, I studing ISC 
 and i´m a person who like so much learn 
 and innovate 😄⚡
 
 #code-eat-sleep-repeat 🌱
-<!--
-**Angelajauregui/Angelajauregui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+About me:
+
+ 
+- 🔭 I’m currently learning html
+- 👯 I’m looking to collaborate on code´s projects
+- 📫 How to reach me: l20211794@tectijuana.edu.mx
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: Knitting in crochet technique
 -->
