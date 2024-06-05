@@ -1,18 +1,18 @@
-### Hi there 👋✨:tada:
+### Hi there ✨💮
 I´m a student from TECNM TIJUANA, I studing ISC 
 and i´m a person who like so much learn 
-and innovate 😄⚡
+and innovate ⚡🧑‍🚀
 
-#code-eat-sleep-repeat 🌱
+#eat-code-sleep-repeat 🌱
 
 
 
-About me:
+About me 👸🤍:
 
  
-- 🔭 I’m currently learning html
+- 🔭 I’m currently learning Python
 - 👯 I’m looking to collaborate on code´s projects
-- 📫 How to reach me: l20211794@tectijuana.edu.mx
+- 📫 How to reach me: amelaromero18@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Knitting in crochet technique
--->
+- ⚡ Fun fact: I read a lot of books 🤓
+
