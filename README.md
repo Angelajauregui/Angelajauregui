@@ -1,9 +1,14 @@
-### Hi there ✨💮
-I´m a student from TECNM TIJUANA, I studing ISC 
-and i´m a person who like so much learn 
-and innovate ⚡🧑‍🚀
+Greetings! 👋
 
-#eat-code-sleep-repeat 🌱
+I'm a Computer Systems Engineering student at the Tijuana Institute of Technology. 🎓
+
+My passion for technology is reflected in my constant pursuit of knowledge and innovation. 💡 
+I'm always ready to face new challenges and explore the frontiers of computer science. 🚀
+
+My philosophy:
+#Learn-Code-Innovate-Grow-Repeat 🔄
+
+Welcome to my space of development and creativity! ✨
 
 
 
